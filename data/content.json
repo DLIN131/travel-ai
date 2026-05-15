@@ -1,38 +1,56 @@
 {
   "dailyRecommendation": {
-    "name": "隨機產生地點 (SSG 更新測試)",
-    "description": "這是在 2026-05-15T03:44:28.956Z 由 GitHub Actions 觸發 Node.js 腳本自動更新的文案。完全不需要資料庫，省錢又安全！",
+    "name": "瑞士，策馬特",
+    "description": "AI 生成失敗，請檢查 API Key 或網路連線。",
     "imageUrl": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?auto=format&fit=crop&w=1200&q=80",
-    "affiliateUrl": "https://www.skyscanner.com.tw/",
-    "displayDate": "2026-05-15T03:44:28.956Z"
+    "affiliateUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&city=%E7%91%9E%E5%A3%AB%EF%BC%8C%E7%AD%96%E9%A6%AC%E7%89%B9",
+    "displayDate": "2026-05-15T08:35:54.358Z"
   },
   "upcomingEvents": [
     {
-      "id": 1,
-      "title": "慕尼黑夏日啤酒節",
-      "location": "德國，慕尼黑",
-      "startDate": "2026-06-15T00:00:00.000Z",
-      "endDate": "2026-06-20T00:00:00.000Z",
-      "description": "體驗巴伐利亞的傳統文化、音樂與精釀啤酒，不容錯過的年度盛事。",
-      "ticketUrl": "https://www.klook.com/activity/12345"
-    },
-    {
-      "id": 2,
-      "title": "紐約獨立日煙火大會",
-      "location": "美國，紐約",
-      "startDate": "2026-07-04T00:00:00.000Z",
+      "id": "1AvjZ_aGkU6vXnK",
+      "title": "Eagles Live at Sphere",
+      "location": "Las Vegas, United States Of America",
+      "startDate": "2026-09-19T03:30:00Z",
       "endDate": null,
-      "description": "在曼哈頓的天際線下，欣賞全美最盛大的煙火表演。",
-      "ticketUrl": "https://www.agoda.com/city/new-york-ny-us.html"
+      "description": "這是一場即將在 Sphere 舉行的精彩活動。",
+      "ticketUrl": "https://www.ticketmaster.com/eagles-live-at-sphere-las-vegas-nevada-09-18-2026/event/1700649D8707EA93"
     },
     {
-      "id": 3,
-      "title": "富士搖滾音樂祭 (Fuji Rock)",
-      "location": "日本，新潟縣",
-      "startDate": "2026-08-12T00:00:00.000Z",
-      "endDate": "2026-08-14T00:00:00.000Z",
-      "description": "亞洲最大的戶外音樂祭之一，在群山環繞中享受音樂與大自然。",
-      "ticketUrl": "https://www.ticketmaster.com"
+      "id": "1AvjZ_aGkU6FCl6",
+      "title": "Eagles Live at Sphere",
+      "location": "Las Vegas, United States Of America",
+      "startDate": "2026-09-20T03:30:00Z",
+      "endDate": null,
+      "description": "這是一場即將在 Sphere 舉行的精彩活動。",
+      "ticketUrl": "https://www.ticketmaster.com/eagles-live-at-sphere-las-vegas-nevada-09-19-2026/event/1700649D8720EAC7"
+    },
+    {
+      "id": "1A9Zk37GkdXVozi",
+      "title": "Eagles Live at Sphere",
+      "location": "Las Vegas, United States Of America",
+      "startDate": "2026-11-14T04:30:00Z",
+      "endDate": null,
+      "description": "這是一場即將在 Sphere 舉行的精彩活動。",
+      "ticketUrl": "https://www.ticketmaster.com/eagles-live-at-sphere-las-vegas-nevada-11-13-2026/event/17006484FED11E2C"
+    },
+    {
+      "id": "1A9Zk37GkdXg-zV",
+      "title": "Eagles Live at Sphere",
+      "location": "Las Vegas, United States Of America",
+      "startDate": "2026-11-15T04:30:00Z",
+      "endDate": null,
+      "description": "這是一場即將在 Sphere 舉行的精彩活動。",
+      "ticketUrl": "https://www.ticketmaster.com/eagles-live-at-sphere-las-vegas-nevada-11-14-2026/event/17006484FED61E34"
+    },
+    {
+      "id": "1A9Zk37GkdXUsyv",
+      "title": "Eagles Live at Sphere",
+      "location": "Las Vegas, United States Of America",
+      "startDate": "2026-11-28T04:30:00Z",
+      "endDate": null,
+      "description": "這是一場即將在 Sphere 舉行的精彩活動。",
+      "ticketUrl": "https://www.ticketmaster.com/eagles-live-at-sphere-las-vegas-nevada-11-27-2026/event/17006484FEDB1E41"
     }
   ]
 }
