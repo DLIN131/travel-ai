@@ -25,7 +25,7 @@ async function generateAIRecommendation() {
   }
 
   const prompt = "請隨機挑選一個世界旅遊城市，並撰寫一段約 100 字的繁體中文旅遊推薦文案。回傳格式必須是 JSON: { \"name\": \"城市名\", \"description\": \"文案\" }。不要有任何其他文字。";
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemma-4-31b-it:generateContent?key=${GEMINI_API_KEY}`;
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`;
 
   try {
     const response = await fetch(url, {
@@ -33,7 +33,19 @@ async function generateAIRecommendation() {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
     });
+    
     const data = await response.json();
+    
+    if (!response.ok) {
+      console.error('Gemini API Error Response:', JSON.stringify(data, null, 2));
+      throw new Error(`API returned status ${response.status}`);
+    }
+
+    if (!data.candidates || !data.candidates[0]?.content?.parts[0]?.text) {
+      console.error('Invalid Gemini API Structure:', JSON.stringify(data, null, 2));
+      throw new Error('Unexpected API response structure');
+    }
+
     const text = data.candidates[0].content.parts[0].text;
     
     // 清理可能出現的 markdown 標籤
