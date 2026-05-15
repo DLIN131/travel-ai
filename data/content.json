@@ -1,0 +1,38 @@
+{
+  "dailyRecommendation": {
+    "name": "法國，巴黎 (Paris, France)",
+    "description": "這是一段由 SSG 架構自動更新的靜態旅遊文案。漫步在塞納河畔，感受這座光之城的浪漫與藝術氣息。無論是探索羅浮宮的稀世珍寶，還是品嚐街角的正宗法式可頌，巴黎總能為你帶來無盡的驚喜與感動。",
+    "imageUrl": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "affiliateUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1234567&city=145",
+    "displayDate": "2026-05-15T00:00:00.000Z"
+  },
+  "upcomingEvents": [
+    {
+      "id": 1,
+      "title": "慕尼黑夏日啤酒節",
+      "location": "德國，慕尼黑",
+      "startDate": "2026-06-15T00:00:00.000Z",
+      "endDate": "2026-06-20T00:00:00.000Z",
+      "description": "體驗巴伐利亞的傳統文化、音樂與精釀啤酒，不容錯過的年度盛事。",
+      "ticketUrl": "https://www.klook.com/activity/12345"
+    },
+    {
+      "id": 2,
+      "title": "紐約獨立日煙火大會",
+      "location": "美國，紐約",
+      "startDate": "2026-07-04T00:00:00.000Z",
+      "endDate": null,
+      "description": "在曼哈頓的天際線下，欣賞全美最盛大的煙火表演。",
+      "ticketUrl": "https://www.agoda.com/city/new-york-ny-us.html"
+    },
+    {
+      "id": 3,
+      "title": "富士搖滾音樂祭 (Fuji Rock)",
+      "location": "日本，新潟縣",
+      "startDate": "2026-08-12T00:00:00.000Z",
+      "endDate": "2026-08-14T00:00:00.000Z",
+      "description": "亞洲最大的戶外音樂祭之一，在群山環繞中享受音樂與大自然。",
+      "ticketUrl": "https://www.ticketmaster.com"
+    }
+  ]
+}
