@@ -1,56 +1,56 @@
 {
   "dailyRecommendation": {
-    "name": "瑞士，策馬特",
-    "description": "AI 生成失敗，請檢查 API Key 或網路連線。",
-    "imageUrl": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?auto=format&fit=crop&w=1200&q=80",
-    "affiliateUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&city=%E7%91%9E%E5%A3%AB%EF%BC%8C%E7%AD%96%E9%A6%AC%E7%89%B9",
-    "displayDate": "2026-05-15T08:42:17.761Z"
+    "name": "瑞士，策馬特 (Zermatt)",
+    "description": "AI 暫時無法生成文案，但策馬特的馬特洪峰絕對值得一訪！被白雪覆蓋的阿爾卑斯山巒、空氣中瀰漫的巧克力香氣，這裡是每個旅人心中的夢幻目的地。",
+    "imageUrl": "https://images.unsplash.com/photo-1507039102241-5ec61d624406?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTE4ODJ8MHwxfHNlYXJjaHwxfHxaZXJtYXR0JTIwdHJhdmVsfGVufDB8MHx8fDE3Nzg4MzQ4ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "affiliateUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&city=%E7%91%9E%E5%A3%AB%EF%BC%8C%E7%AD%96%E9%A6%AC%E7%89%B9%20(Zermatt)",
+    "displayDate": "2026-05-15T08:48:01.782Z"
   },
   "upcomingEvents": [
     {
-      "id": "1AvjZ_aGkU6vXnK",
-      "title": "Eagles Live at Sphere",
-      "location": "Las Vegas, United States Of America",
-      "startDate": "2026-09-19T03:30:00Z",
+      "id": "G5dFZ975dZstp",
+      "title": "Mods Mayday",
+      "location": "London, Great Britain",
+      "startDate": "2022-05-02T14:00:00Z",
       "endDate": null,
-      "description": "這是一場即將在 Sphere 舉行的精彩活動。",
-      "ticketUrl": "https://www.ticketmaster.com/eagles-live-at-sphere-las-vegas-nevada-09-18-2026/event/1700649D8707EA93"
+      "description": "Music 活動 — 即將在 Round Chapel 舉行。",
+      "ticketUrl": "https://www.ticketweb.uk/event/mods-mayday-round-chapel-tickets/11770435?REFERRAL_ID=tmfeed"
     },
     {
-      "id": "1AvjZ_aGkU6FCl6",
-      "title": "Eagles Live at Sphere",
-      "location": "Las Vegas, United States Of America",
-      "startDate": "2026-09-20T03:30:00Z",
+      "id": "G5viZblFk3pMO",
+      "title": "Denim and Diamonds Tour w/ Sir Charles Jones, Jay Morris and Myia B",
+      "location": "Memphis, United States Of America",
+      "startDate": "2025-06-30T00:00:00Z",
       "endDate": null,
-      "description": "這是一場即將在 Sphere 舉行的精彩活動。",
-      "ticketUrl": "https://www.ticketmaster.com/eagles-live-at-sphere-las-vegas-nevada-09-19-2026/event/1700649D8720EAC7"
+      "description": "Music 活動 — 即將在 Minglewood Hall 舉行。",
+      "ticketUrl": "https://www.ticketmaster.com/denim-and-diamonds-tour-w-sir-memphis-tennessee-06-29-2025/event/1B0062B206496DE0"
     },
     {
-      "id": "1A9Zk37GkdXVozi",
-      "title": "Eagles Live at Sphere",
+      "id": "1Ad0ZbYGkDbfd1v",
+      "title": "Wayne Newton + Hotel Deals",
       "location": "Las Vegas, United States Of America",
-      "startDate": "2026-11-14T04:30:00Z",
+      "startDate": "2025-08-15T02:00:00Z",
       "endDate": null,
-      "description": "這是一場即將在 Sphere 舉行的精彩活動。",
-      "ticketUrl": "https://www.ticketmaster.com/eagles-live-at-sphere-las-vegas-nevada-11-13-2026/event/17006484FED11E2C"
+      "description": "Music 活動 — 即將在 Bugsy's Cabaret at Flamingo 舉行。",
+      "ticketUrl": "https://travel.ticketmaster.com/attraction/167?_uid=2d1a81bc-09c6-45ae-ba80-43c6cfcac5ca&utm_source=Caesars_TM&utm_medium=Wayne_Newton_ADP"
     },
     {
-      "id": "1A9Zk37GkdXg-zV",
-      "title": "Eagles Live at Sphere",
-      "location": "Las Vegas, United States Of America",
-      "startDate": "2026-11-15T04:30:00Z",
+      "id": "LvZ18_HjYlpOc4ZZvBcXg",
+      "title": "Bay Breakers Season Ticket",
+      "location": "Lodi, United States Of America",
+      "startDate": "2025-03-08T08:00:00Z",
       "endDate": null,
-      "description": "這是一場即將在 Sphere 舉行的精彩活動。",
-      "ticketUrl": "https://www.ticketmaster.com/eagles-live-at-sphere-las-vegas-nevada-11-14-2026/event/17006484FED61E34"
+      "description": "Sports 活動 — 即將在 Grape Bowl 舉行。",
+      "ticketUrl": "https://www.universe.com/events/bay-breakers-season-ticket-tickets-9F6S1B?ref=ticketmaster"
     },
     {
-      "id": "1A9Zk37GkdXUsyv",
-      "title": "Eagles Live at Sphere",
-      "location": "Las Vegas, United States Of America",
-      "startDate": "2026-11-28T04:30:00Z",
+      "id": "vvG1HZbM95d1XR",
+      "title": "2026 Seattle Mariners Flex Memberships",
+      "location": "Seattle, United States Of America",
+      "startDate": "2026-03-26",
       "endDate": null,
-      "description": "這是一場即將在 Sphere 舉行的精彩活動。",
-      "ticketUrl": "https://www.ticketmaster.com/eagles-live-at-sphere-las-vegas-nevada-11-27-2026/event/17006484FEDB1E41"
+      "description": "Sports 活動 — 即將在 T-Mobile Park 舉行。",
+      "ticketUrl": "https://am.ticketmaster.com/mariners/Mariners-Flex-Memberships-TM"
     }
   ]
 }
