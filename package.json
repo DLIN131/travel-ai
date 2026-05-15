@@ -1,0 +1,29 @@
+{
+  "name": "travel-demo",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "seed": "npx prisma db seed",
+    "render-build": "npx prisma generate && npx prisma migrate deploy && npm run build"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.19.3",
+    "@types/node-cron": "^3.0.11",
+    "node-cron": "^4.2.1",
+    "nuxt": "^4.4.5",
+    "prisma": "^6.19.3",
+    "vue": "^3.5.34",
+    "vue-router": "^5.0.6"
+  },
+  "prisma": {
+    "seed": "ts-node prisma/seed.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
