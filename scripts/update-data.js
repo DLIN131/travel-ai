@@ -42,15 +42,21 @@ async function generateAIRecommendation() {
     }
 
     if (!data.candidates || !data.candidates[0]?.content?.parts[0]?.text) {
-      console.error('Invalid Gemini API Structure:', JSON.stringify(data, null, 2));
-      throw new Error('Unexpected API response structure');
+      console.error('Gemini API returned no content. Full Response:', JSON.stringify(data, null, 2));
+      const finishReason = data.candidates?.[0]?.finishReason;
+      throw new Error(`AI generated no content. Reason: ${finishReason || 'unknown'}`);
     }
 
-    const text = data.candidates[0].content.parts[0].text;
+    let text = data.candidates[0].content.parts[0].text;
+    console.log('AI Original Response:', text);
+
+    // 強化版 JSON 提取邏輯：尋找第一個 { 和最後一個 } 之間的內容
+    const jsonMatch = text.match(/\{[\s\S]*\}/);
+    if (!jsonMatch) {
+      throw new Error('Could not find JSON object in AI response');
+    }
     
-    // 清理可能出現的 markdown 標籤
-    const cleanJson = text.replace(/```json|```/g, '').trim();
-    return JSON.parse(cleanJson);
+    return JSON.parse(jsonMatch[0]);
   } catch (error) {
     console.error('Gemini API Error:', error);
     return { name: '瑞士，策馬特', description: 'AI 生成失敗，請檢查 API Key 或網路連線。' };
