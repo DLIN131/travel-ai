@@ -2,9 +2,9 @@
   "dailyRecommendation": {
     "name": "瑞士，策馬特 (Zermatt)",
     "description": "AI 暫時無法生成文案，但策馬特的馬特洪峰絕對值得一訪！被白雪覆蓋的阿爾卑斯山巒、空氣中瀰漫的巧克力香氣，這裡是每個旅人心中的夢幻目的地。",
-    "imageUrl": "https://images.unsplash.com/photo-1507039102241-5ec61d624406?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTE4ODJ8MHwxfHNlYXJjaHwxfHxaZXJtYXR0JTIwdHJhdmVsfGVufDB8MHx8fDE3ODI3MDE0NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageUrl": "https://images.unsplash.com/photo-1507039102241-5ec61d624406?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTE4ODJ8MHwxfHNlYXJjaHwxfHxaZXJtYXR0JTIwdHJhdmVsfGVufDB8MHx8fDE3ODI4NzQyNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "affiliateUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&city=%E7%91%9E%E5%A3%AB%EF%BC%8C%E7%AD%96%E9%A6%AC%E7%89%B9%20(Zermatt)",
-    "displayDate": "2026-06-30T02:44:52.233Z"
+    "displayDate": "2026-07-01T02:51:01.519Z"
   },
   "upcomingEvents": [
     {
@@ -17,15 +17,6 @@
       "ticketUrl": "https://www.ticketweb.uk/event/mods-mayday-round-chapel-tickets/11770435?REFERRAL_ID=tmfeed"
     },
     {
-      "id": "G5viZblFk3pMO",
-      "title": "Denim and Diamonds Tour w/ Sir Charles Jones, Jay Morris and Myia B",
-      "location": "Memphis, United States Of America",
-      "startDate": "2025-06-30T00:00:00Z",
-      "endDate": null,
-      "description": "Music 活動 — 即將在 Minglewood Hall 舉行。",
-      "ticketUrl": "https://www.ticketmaster.com/denim-and-diamonds-tour-w-sir-memphis-tennessee-06-29-2025/event/1B0062B206496DE0"
-    },
-    {
       "id": "1Ad0ZbYGkDbfd1v",
       "title": "Wayne Newton | Official Caesars Ticket + Hotel Packages",
       "location": "Las Vegas, United States Of America",
@@ -33,6 +24,15 @@
       "endDate": null,
       "description": "Music 活動 — 即將在 Bugsy's Cabaret at Flamingo 舉行。",
       "ticketUrl": "https://travel.ticketmaster.com/attraction/167?_uid=2d1a81bc-09c6-45ae-ba80-43c6cfcac5ca&utm_source=Caesars_TM&utm_medium=Wayne_Newton_ADP"
+    },
+    {
+      "id": "G5viZbmRJBgQk",
+      "title": "Welcome Home Tour: Rio Da Yung Og",
+      "location": "Memphis, United States Of America",
+      "startDate": "2025-08-26T01:00:00Z",
+      "endDate": null,
+      "description": "Music 活動 — 即將在 Minglewood Hall 舉行。",
+      "ticketUrl": "https://www.ticketmaster.com/welcome-home-tour-rio-da-yung-memphis-tennessee-08-25-2025/event/1B0062EBE6EB5686"
     },
     {
       "id": "LvZ18_HjYlpOc4ZZvBcXg",
