@@ -2,9 +2,9 @@
   "dailyRecommendation": {
     "name": "瑞士，策馬特 (Zermatt)",
     "description": "AI 暫時無法生成文案，但策馬特的馬特洪峰絕對值得一訪！被白雪覆蓋的阿爾卑斯山巒、空氣中瀰漫的巧克力香氣，這裡是每個旅人心中的夢幻目的地。",
-    "imageUrl": "https://images.unsplash.com/photo-1693233817977-61923a0f3347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTE4ODJ8MHwxfHNlYXJjaHwxfHxaZXJtYXR0JTIwdHJhdmVsfGVufDB8MHx8fDE3ODQ0MjY2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageUrl": "https://images.unsplash.com/photo-1693233817977-61923a0f3347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTE4ODJ8MHwxfHNlYXJjaHwxfHxaZXJtYXR0JTIwdHJhdmVsfGVufDB8MHx8fDE3ODQ2ODU2ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "affiliateUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&city=%E7%91%9E%E5%A3%AB%EF%BC%8C%E7%AD%96%E9%A6%AC%E7%89%B9%20(Zermatt)",
-    "displayDate": "2026-07-21T02:02:56.916Z"
+    "displayDate": "2026-07-22T02:01:24.310Z"
   },
   "upcomingEvents": [
     {
@@ -35,13 +35,13 @@
       "ticketUrl": "https://www.ticketmaster.com/welcome-home-tour-rio-da-yung-memphis-tennessee-08-25-2025/event/1B0062EBE6EB5686"
     },
     {
-      "id": "LvZ18_HjYlpOc4ZZvBcXg",
-      "title": "Bay Breakers Season Ticket",
-      "location": "Lodi, United States Of America",
-      "startDate": "2025-03-08T08:00:00Z",
+      "id": "17a8v0G6uD4wVt3",
+      "title": "Australian Open 2027 - Ground Pass (7 Day)",
+      "location": "Melbourne, Australia",
+      "startDate": "2026-01-25",
       "endDate": null,
-      "description": "Sports 活動 — 即將在 Grape Bowl 舉行。",
-      "ticketUrl": "https://www.universe.com/events/bay-breakers-season-ticket-tickets-9F6S1B?ref=ticketmaster"
+      "description": "Sports 活動 — 即將在 Melbourne Park 舉行。",
+      "ticketUrl": "https://www.ticketmaster.com.au/australian-open-2027-ground-pass-7-melbourne-25-01-2026/event/250064DED5CB4A52"
     },
     {
       "id": "vvG1HZbM95d1XR",
