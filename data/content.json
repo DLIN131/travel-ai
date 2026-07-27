@@ -2,9 +2,9 @@
   "dailyRecommendation": {
     "name": "瑞士，策馬特 (Zermatt)",
     "description": "AI 暫時無法生成文案，但策馬特的馬特洪峰絕對值得一訪！被白雪覆蓋的阿爾卑斯山巒、空氣中瀰漫的巧克力香氣，這裡是每個旅人心中的夢幻目的地。",
-    "imageUrl": "https://images.unsplash.com/photo-1693233817977-61923a0f3347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTE4ODJ8MHwxfHNlYXJjaHwxfHxaZXJtYXR0JTIwdHJhdmVsfGVufDB8MHx8fDE3ODUwMzE3MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageUrl": "https://images.unsplash.com/photo-1693233817977-61923a0f3347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTE4ODJ8MHwxfHNlYXJjaHwxfHxaZXJtYXR0JTIwdHJhdmVsfGVufDB8MHx8fDE3ODUxMTg5MTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "affiliateUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&city=%E7%91%9E%E5%A3%AB%EF%BC%8C%E7%AD%96%E9%A6%AC%E7%89%B9%20(Zermatt)",
-    "displayDate": "2026-07-26T02:08:35.789Z"
+    "displayDate": "2026-07-27T02:21:53.169Z"
   },
   "upcomingEvents": [
     {
@@ -35,15 +35,6 @@
       "ticketUrl": "https://www.ticketmaster.com/welcome-home-tour-rio-da-yung-memphis-tennessee-08-25-2025/event/1B0062EBE6EB5686"
     },
     {
-      "id": "17a8v0G6uD4wVt3",
-      "title": "Australian Open 2027 - Ground Pass (7 Day)",
-      "location": "Melbourne, Australia",
-      "startDate": "2026-01-25",
-      "endDate": null,
-      "description": "Sports 活動 — 即將在 Melbourne Park 舉行。",
-      "ticketUrl": "https://www.ticketmaster.com.au/australian-open-2027-ground-pass-7-melbourne-25-01-2026/event/250064DED5CB4A52"
-    },
-    {
       "id": "vvG1HZbM95d1XR",
       "title": "2026 Seattle Mariners Flex Memberships",
       "location": "Seattle, United States Of America",
@@ -51,6 +42,15 @@
       "endDate": null,
       "description": "Sports 活動 — 即將在 T-Mobile Park 舉行。",
       "ticketUrl": "https://am.ticketmaster.com/mariners/Mariners-Flex-Memberships-TM"
+    },
+    {
+      "id": "LvZ18Q9O6TwZ6H8Zyip7l",
+      "title": "2026 Breakers Season Ticket",
+      "location": "Sacramento, United States Of America",
+      "startDate": "2026-05-03T23:00:00Z",
+      "endDate": null,
+      "description": "Sports 活動 — 即將在 Heart Health Park at Cal Expo 舉行。",
+      "ticketUrl": "https://www.universe.com/events/2026-breakers-season-ticket-tickets-9PC1JF?ref=ticketmaster"
     }
   ]
 }
