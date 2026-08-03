@@ -2,9 +2,9 @@
   "dailyRecommendation": {
     "name": "瑞士，策馬特 (Zermatt)",
     "description": "AI 暫時無法生成文案，但策馬特的馬特洪峰絕對值得一訪！被白雪覆蓋的阿爾卑斯山巒、空氣中瀰漫的巧克力香氣，這裡是每個旅人心中的夢幻目的地。",
-    "imageUrl": "https://images.unsplash.com/photo-1693233817977-61923a0f3347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTE4ODJ8MHwxfHNlYXJjaHwxfHxaZXJtYXR0JTIwdHJhdmVsfGVufDB8MHx8fDE3ODU2MzY0MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageUrl": "https://images.unsplash.com/photo-1693233817977-61923a0f3347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTE4ODJ8MHwxfHNlYXJjaHwxfHxaZXJtYXR0JTIwdHJhdmVsfGVufDB8MHx8fDE3ODU3MjI5NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "affiliateUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&city=%E7%91%9E%E5%A3%AB%EF%BC%8C%E7%AD%96%E9%A6%AC%E7%89%B9%20(Zermatt)",
-    "displayDate": "2026-08-02T02:07:11.069Z"
+    "displayDate": "2026-08-03T02:09:22.016Z"
   },
   "upcomingEvents": [
     {
@@ -35,22 +35,22 @@
       "ticketUrl": "https://www.ticketmaster.com/welcome-home-tour-rio-da-yung-memphis-tennessee-08-25-2025/event/1B0062EBE6EB5686"
     },
     {
-      "id": "vvG1HZbM95d1XR",
-      "title": "2026 Seattle Mariners Flex Memberships",
-      "location": "Seattle, United States Of America",
-      "startDate": "2026-03-26",
+      "id": "Z8ymWIMJlyZziZea1e",
+      "title": "Contemporary Art Exhibition",
+      "location": "Singapore, Singapore",
+      "startDate": "2024-09-30T16:00:00Z",
       "endDate": null,
-      "description": "Sports 活動 — 即將在 T-Mobile Park 舉行。",
-      "ticketUrl": "https://am.ticketmaster.com/mariners/Mariners-Flex-Memberships-TM"
+      "description": "Arts & Theatre 活動 — 即將在 SAM At Tanjong Pagar Distripark 舉行。",
+      "ticketUrl": "https://ticketmaster.sg/ticket/area/24sg_sgartmuseum/1891"
     },
     {
-      "id": "rZ7HnEZ1AfOPvK",
-      "title": "Hamilton Cardinals 2026 Flex Packs",
-      "location": "Hamilton, Canada",
-      "startDate": "2026-05-15T23:35:00Z",
+      "id": "1Ad0ZbYGkD2tdvX",
+      "title": "Colin Cloud Mastermind | Official Caesars Ticket + Hotel Packages",
+      "location": "Las Vegas, United States Of America",
+      "startDate": "2025-08-15T01:00:00Z",
       "endDate": null,
-      "description": "Sports 活動 — 即將在 Bernie Arbour Stadium 舉行。",
-      "ticketUrl": "https://www.ticketweb.ca/event/hamilton-cardinals-2026-flex-packs-bernie-arbour-stadium-tickets/14825053"
+      "description": "Arts & Theatre 活動 — 即將在 Harrah's Cabaret at Harrah's Las Vegas 舉行。",
+      "ticketUrl": "https://travel.ticketmaster.com/attraction/84541?_uid=2d1a81bc-09c6-45ae-ba80-43c6cfcac5ca&utm_source=Caesars_TM&utm_medium=Colin_Cloud_ADP"
     }
   ]
 }
