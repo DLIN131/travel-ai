@@ -2,9 +2,9 @@
   "dailyRecommendation": {
     "name": "瑞士，策馬特 (Zermatt)",
     "description": "AI 暫時無法生成文案，但策馬特的馬特洪峰絕對值得一訪！被白雪覆蓋的阿爾卑斯山巒、空氣中瀰漫的巧克力香氣，這裡是每個旅人心中的夢幻目的地。",
-    "imageUrl": "https://images.unsplash.com/photo-1521292270410-a8c4d716d518?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTE4ODJ8MHwxfHNlYXJjaHwxfHxaZXJtYXR0JTIwdHJhdmVsfGVufDB8MHx8fDE3ODgyMzE3MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageUrl": "https://images.unsplash.com/photo-1507039102241-5ec61d624406?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTE4ODJ8MHwxfHNlYXJjaHwxfHxaZXJtYXR0JTIwdHJhdmVsfGVufDB8MHx8fDE3ODgzMTU3MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "affiliateUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&city=%E7%91%9E%E5%A3%AB%EF%BC%8C%E7%AD%96%E9%A6%AC%E7%89%B9%20(Zermatt)",
-    "displayDate": "2026-09-01T03:01:43.010Z"
+    "displayDate": "2026-09-02T02:21:56.615Z"
   },
   "upcomingEvents": [
     {
@@ -35,15 +35,6 @@
       "ticketUrl": "https://travel.ticketmaster.com/attraction/825?_uid=2d1a81bc-09c6-45ae-ba80-43c6cfcac5ca&utm_source=Caesars_TM&utm_medium=TM_ADP_MJLive"
     },
     {
-      "id": "rZ7HnEZ1AfOPvK",
-      "title": "Hamilton Cardinals 2026 Flex Packs",
-      "location": "Hamilton, Canada",
-      "startDate": "2026-05-15T23:35:00Z",
-      "endDate": null,
-      "description": "Sports 活動 — 即將在 Bernie Arbour Stadium 舉行。",
-      "ticketUrl": "https://www.ticketweb.ca/event/hamilton-cardinals-2026-flex-packs-bernie-arbour-stadium-tickets/14825053"
-    },
-    {
       "id": "17AYv0G61XTDuqT",
       "title": "Official Las Vegas Raiders Ticket + Hotel Packages",
       "location": "Las Vegas, United States Of America",
@@ -51,6 +42,15 @@
       "endDate": null,
       "description": "Sports 活動 — 即將在 Allegiant Stadium 舉行。",
       "ticketUrl": "https://travel.ticketmaster.com/en-US/attraction/913?_uid=6ba7804c-af5d-42c9-81b7-7340d96a1080&utm_source=Raiders_TM&utm_medium=TM_ADP_LasVegasRaiders"
+    },
+    {
+      "id": "177Zv0G65S6iFsG",
+      "title": "Hamilton Hammers Season Memberships",
+      "location": "Hamilton, Canada",
+      "startDate": "2026-06-02",
+      "endDate": null,
+      "description": "Sports 活動 — 即將在 TD Coliseum 舉行。",
+      "ticketUrl": "https://www.hamiltonhammers.com/tickets/season-seat-memberships#contactus"
     }
   ]
 }
