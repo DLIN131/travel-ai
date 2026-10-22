@@ -2,9 +2,9 @@
   "dailyRecommendation": {
     "name": "瑞士，策馬特 (Zermatt)",
     "description": "AI 暫時無法生成文案，但策馬特的馬特洪峰絕對值得一訪！被白雪覆蓋的阿爾卑斯山巒、空氣中瀰漫的巧克力香氣，這裡是每個旅人心中的夢幻目的地。",
-    "imageUrl": "https://images.unsplash.com/photo-1507039102241-5ec61d624406?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTE4ODJ8MHwxfHNlYXJjaHwxfHxaZXJtYXR0JTIwdHJhdmVsfGVufDB8MHx8fDE3OTI1NTEwOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageUrl": "https://images.unsplash.com/photo-1507039102241-5ec61d624406?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTE4ODJ8MHwxfHNlYXJjaHwxfHxaZXJtYXR0JTIwdHJhdmVsfGVufDB8MHx8fDE3OTI2Mzc4NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "affiliateUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&city=%E7%91%9E%E5%A3%AB%EF%BC%8C%E7%AD%96%E9%A6%AC%E7%89%B9%20(Zermatt)",
-    "displayDate": "2026-10-21T02:51:39.193Z"
+    "displayDate": "2026-10-22T02:57:25.972Z"
   },
   "upcomingEvents": [
     {
@@ -35,22 +35,22 @@
       "ticketUrl": "https://travel.ticketmaster.com/attraction/825?_uid=2d1a81bc-09c6-45ae-ba80-43c6cfcac5ca&utm_source=Caesars_TM&utm_medium=TM_ADP_MJLive"
     },
     {
-      "id": "17AYv0G61XTDuqT",
-      "title": "Official Las Vegas Raiders Ticket + Hotel Packages",
-      "location": "Las Vegas, United States Of America",
-      "startDate": "2026-05-16T00:00:00Z",
+      "id": "Z8ymWIMJlyZziZea1e",
+      "title": "Contemporary Art Exhibition",
+      "location": "Singapore, Singapore",
+      "startDate": "2024-09-30T16:00:00Z",
       "endDate": null,
-      "description": "Sports 活動 — 即將在 Allegiant Stadium 舉行。",
-      "ticketUrl": "https://travel.ticketmaster.com/en-US/attraction/913?_uid=6ba7804c-af5d-42c9-81b7-7340d96a1080&utm_source=Raiders_TM&utm_medium=TM_ADP_LasVegasRaiders"
+      "description": "Arts & Theatre 活動 — 即將在 SAM At Tanjong Pagar Distripark 舉行。",
+      "ticketUrl": "https://ticketmaster.sg/ticket/area/24sg_sgartmuseum/1891"
     },
     {
-      "id": "177Zv0G62Q9ka98",
-      "title": "Toronto Rock Season Memberships",
-      "location": "Hamilton, Canada",
-      "startDate": "2026-07-02T03:00:00Z",
+      "id": "LvZ18Q5JcfMRII8Zn1om1",
+      "title": "MAD Arts",
+      "location": "Dania Beach, United States Of America",
+      "startDate": "2025-09-04T15:30:00Z",
       "endDate": null,
-      "description": "Sports 活動 — 即將在 TD Coliseum 舉行。",
-      "ticketUrl": "https://am.ticketmaster.com/torontorock/buy?camefrom=TMredirect"
+      "description": "Arts & Theatre 活動 — 即將在 MAD Arts Gallery 舉行。",
+      "ticketUrl": "https://www.universe.com/events/mad-arts-tickets-0BYVF9?ref=ticketmaster"
     }
   ]
 }
