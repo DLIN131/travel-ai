@@ -2,9 +2,9 @@
   "dailyRecommendation": {
     "name": "瑞士，策馬特 (Zermatt)",
     "description": "AI 暫時無法生成文案，但策馬特的馬特洪峰絕對值得一訪！被白雪覆蓋的阿爾卑斯山巒、空氣中瀰漫的巧克力香氣，這裡是每個旅人心中的夢幻目的地。",
-    "imageUrl": "https://images.unsplash.com/photo-1507039102241-5ec61d624406?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTE4ODJ8MHwxfHNlYXJjaHwxfHxaZXJtYXR0JTIwdHJhdmVsfGVufDB8MHx8fDE3OTMwNzA5NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageUrl": "https://images.unsplash.com/photo-1507039102241-5ec61d624406?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTE4ODJ8MHwxfHNlYXJjaHwxfHxaZXJtYXR0JTIwdHJhdmVsfGVufDB8MHx8fDE3OTMxNTgyMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "affiliateUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&city=%E7%91%9E%E5%A3%AB%EF%BC%8C%E7%AD%96%E9%A6%AC%E7%89%B9%20(Zermatt)",
-    "displayDate": "2026-10-27T03:15:47.245Z"
+    "displayDate": "2026-10-28T03:30:36.905Z"
   },
   "upcomingEvents": [
     {
@@ -26,13 +26,13 @@
       "ticketUrl": "https://www.ticketmaster.com/remember-when-the-ultimate-tribute-to-sacramento-california-11-21-2025/event/1C006349E7B5D9FF"
     },
     {
-      "id": "1AyZkCaGkeTZ1Y7",
-      "title": "MJ Live | Official Caesars Ticket + Hotel Packages",
+      "id": "1AyZkCaGkeTZnYk",
+      "title": "Sin City Stones | Official Caesars Ticket + Hotel Packages",
       "location": "Las Vegas, United States Of America",
-      "startDate": "2025-12-10T03:00:00Z",
+      "startDate": "2025-12-12T03:00:00Z",
       "endDate": null,
-      "description": "Music 活動 — 即將在 Harrah's Showroom at Harrah's Las Vegas 舉行。",
-      "ticketUrl": "https://travel.ticketmaster.com/attraction/825?_uid=2d1a81bc-09c6-45ae-ba80-43c6cfcac5ca&utm_source=Caesars_TM&utm_medium=TM_ADP_MJLive"
+      "description": "Music 活動 — 即將在 X Rocks Theater at Horseshoe Las Vegas 舉行。",
+      "ticketUrl": "https://travel.ticketmaster.com/attraction/119325?_uid=2d1a81bc-09c6-45ae-ba80-43c6cfcac5ca&utm_source=Caesars_TM&utm_medium=TM_ADP_SinCityStones"
     },
     {
       "id": "17AYv0G61XTDuqT",
